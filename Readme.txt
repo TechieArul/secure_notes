@@ -1,7 +1,7 @@
 About this Project :
 --------------------
 
-This is a "secure notes software" which is used to save your personal detials like (phone no, passwords, email id and etc...) with symmetric encryption
+This is a "secure notes software" which is used to save your personal details like (phone no, passwords, email id and etc...) with symmetric encryption
 
 
 Pro's about this software :
